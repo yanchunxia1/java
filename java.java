@@ -2,7 +2,7 @@ package com.atguigu.maven.bean;
 
 public class Employee {
 	private Integer id111;
-	private String name;
+	private String name222222;
 	private String email;
 	private Integer salary;
 	private Department dept;
