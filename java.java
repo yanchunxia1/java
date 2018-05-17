@@ -3,7 +3,7 @@ package com.atguigu.maven.bean;
 public class Employee {
 	private Integer id111;
 	private String name222222;
-	private String email;
+	private String email33333;
 	private Integer salary;
 	private Department dept;
 	public Integer getId() {
